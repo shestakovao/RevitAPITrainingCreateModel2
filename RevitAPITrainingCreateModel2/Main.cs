@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RevitAPITrainingCreateModel
+namespace RevitAPITrainingCreateModel2
 {
     [Transaction(TransactionMode.Manual)]
     public class Main : IExternalCommand
